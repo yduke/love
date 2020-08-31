@@ -29,7 +29,7 @@ button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}
 }
 .btn:focus,.btn:hover{text-decoration:none}
 .btn.focus,.btn:focus{outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.25)}
-.btn-primary:hover{border-color:#0062cc;background-color:#0069d9;color:#fff}
+.btn-primary:hover{border-color:#f78b26;background-color:#f78b26;color:#fff}
 .btn-primary.focus,.btn-primary:focus{box-shadow:0 0 0 .2rem rgba(0,123,255,.5)}
 .top-wrap{position: absolute; top: 1vh;width: 100%;z-index: 999}
 .main-wrapper{position: absolute;top:50%}
@@ -37,6 +37,7 @@ button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}
 #bar{height:2px;width:90%;margin-top:30px;transition:width 1s;transition-timing-function:linear;background:#f6a0bb}
 .text-center{text-align:center!important}
 .float-right{float:right!important;padding-top: 0px;}
+img.reload{width:1em;height:1em;margin-right:10px}
 .footer{position:absolute;bottom:7vh;width:100%}
 .footer p{font-size:0.8em;color:#888}
 @media (prefers-color-scheme:dark){

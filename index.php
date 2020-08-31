@@ -53,6 +53,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col text-center">
+			<a class="btn btn-primary btn-filled btn-xs" href="">
+			<img class="reload" src="./img/reload.svg" alt="Reload">换一句
+			</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col text-center">
 	            <p>by <a target="_blank" href="https://www.dukeyin.com/">Duke Yin</a></p>
 	    </div>
   		</div>
