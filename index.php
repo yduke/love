@@ -33,7 +33,7 @@
 	    </div>
 	    <div class="col">
 	    	<div class="float-right">
-	    		<a class="btn btn-primary btn-filled btn-xs" href="https://github.com/yduke/soup" target="_blank">GitHub</a>
+	    		<a class="btn btn-primary btn-filled btn-xs" href="https://github.com/yduke/love" target="_blank">GitHub</a>
 	    	</div>
 	    </div>
 		</div>
