@@ -33,7 +33,7 @@
 	    </div>
 	    <div class="col">
 	    	<div class="float-right">
-	    		<a class="btn btn-primary btn-xs" href="https://github.com/yduke/love" target="_blank">GitHub</a>
+	    		<a class="btn btn-primary" href="https://github.com/yduke/love" target="_blank">GitHub</a>
 	    	</div>
 	    </div>
 		</div>
@@ -51,9 +51,9 @@
 </div>
 <div class="footer">
 	<div class="container">
-		<div class="row">
+		<div class="row" style="margin-bottom:60px">
 			<div class="col text-center">
-			<a class="btn btn-primary btn-filled btn-xs" href="">
+			<a class="btn btn-primary btn-filled btn-sm" href="">
 			<img class="reload" src="./img/reload.svg" alt="Reload">换一句
 			</a>
 			</div>

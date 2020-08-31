@@ -31,6 +31,7 @@ button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}
 .btn.focus,.btn:focus{outline:0;box-shadow:0 0 0 .2rem rgba(0,123,255,.25)}
 .btn-primary:hover{border-color:#f78b26;background-color:#f78b26;color:#fff}
 .btn-primary.focus,.btn-primary:focus{box-shadow:0 0 0 .2rem rgba(0,123,255,.5)}
+.btn-sm{font-size:0.8em;padding:15px 20px}
 .top-wrap{position: absolute; top: 1vh;width: 100%;z-index: 999}
 .main-wrapper{position: absolute;top:50%}
 #sentence{font-size:2rem;width:100%;vertical-align:middle;font-weight:bolder}
