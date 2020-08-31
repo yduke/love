@@ -15,9 +15,10 @@
 	<meta property="og:image" content="./img/logo.svg" />
 	<meta property="og:site_name" content="土味儿情话 - 很肉麻很腻人又有点乡土感的情话！" />
 	<meta property="og:description" content="1000多条经典土味儿情话,是居家必备，情侣喜爱的制胜法宝。"/>
-	<link rel="icon" href="./img/soup.png" type="image/x-icon" id="page_favionc">
+	<link rel="icon" href="./img/icons/icon-512x512.png" type="image/x-icon" id="page_favionc">
 	<link href="./style.css" rel="stylesheet">
-	<link rel="alternate icon" type="image/png" href="./img/soup.png">
+	<link rel="alternate icon" type="image/png" href="./img/icons/icon-512x512.png">
+	<link rel="apple-touch-icon-precomposed" href="./img/icons/icon-512x512.png">
 	<link rel="manifest" href="./manifest.json">
 	<link rel="stylesheet" href="//cdn.staticfile.org/animsition/4.0.2/css/animsition.min.css">
 	<script src="//cdn.staticfile.org/jquery/1.11.0/jquery.min.js"></script>
