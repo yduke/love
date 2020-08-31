@@ -1,6 +1,6 @@
 ﻿<!doctype html>
 <html lang="zh-CN">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>土味儿情话 - 很肉麻很腻人又有点乡土感的情话！</title>
 	<meta name="description" content="1000多条经典土味儿情话,是居家必备，情侣喜爱的制胜法宝。">
